@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Calpim</h1>
 <h3 align="center">A Community Manager from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=calpimm&label=Profile%20views&color=0e75b6&style=flat" alt="calpimm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=calpimm" alt="calpimm" /></a> </p>
 
 - 🔭 I’m currently working on [Idle Warrior: Taverna](https://lamronstudio.com)
 
