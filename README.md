@@ -1,20 +1,90 @@
-# 💫About Me :
-He's currently a freelance backend developer, working on small projects at home and working on a gaming company.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:444444&height=240&section=header&text=Kutay%20Irmak%20⚙️&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20DevOps%20%7C%20Automation&descAlignY=60)
 
-If you have even the slightest idea, feel free to contact me so we can develop it.
+<div align="center">
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ömerkutayırmak) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/calpim) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/calpim) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@calpim) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/calpim) 
+<pre>
+root@calpim:~# whoami
+Backend Developer | DevOps Enthusiast | Automation Engineer
+</pre>
 
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=flat&logo=crystal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=flat&logo=elm&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=flat&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=flat&logo=adonisjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=flat&logo=buefy&logoColor=48289E) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=flat&logo=meteor&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=flat&logo=nuxt.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 	![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Calpimm&theme=nord&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Calpimm&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Calpimm&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Calpimm&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🧠 About Me
+
+🧩 Freelance backend developer focused on building scalable systems and clean architectures.  
+⚙️ Passionate about **automation**, **APIs**, and **self-healing infrastructures**.  
+🎮 Currently collaborating with a gaming company while crafting personal backend projects.  
+💬 Fluent in `TypeScript`, `Go`, `Python`, `SQL`, and sarcasm.  
+🌙 Most active between *midnight deploys* and *morning caffeine.*  
+🕶️ Motto: *“If it scales, it lives — if it breaks, it learns.”*
+
+---
+
+## 🛠️ My Tech Arsenal
+
+| Domain | Tools & Technologies |
+|--------|-----------------------|
+| **Core Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-000000?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?logo=postgresql&logoColor=white) |
+| **Backend Frameworks** | ![NestJS](https://img.shields.io/badge/NestJS-000000?logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-000000?logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-000000?logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-000000?logo=laravel&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![AdonisJS](https://img.shields.io/badge/AdonisJS-000000?logo=adonisjs&logoColor=white) |
+| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-000000?logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000000?logo=sqlite&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-000000?logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?logo=cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-000000?logo=googlecloud&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-000000?logo=hetzner&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-000000?logo=amazonaws&logoColor=white) |
+| **Automation & APIs** | ![n8n](https://img.shields.io/badge/n8n-000000?logo=n8n&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-000000?logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-000000?logo=swagger&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-000000?logo=graphql&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white) |
+| **Monitoring & Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-000000?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-000000?logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-000000?logo=grafana&logoColor=white) |
+| **Productivity & Tools** | ![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-000000?logo=visualstudiocode&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-000000?logo=canva&logoColor=white) |
+
+---
+
+## ⚡ Current Focus
+
+- 🧩 Architecting efficient, modular backend systems  
+- ☁️ Automating deployments and cloud orchestration  
+- 🔐 Managing reverse proxies, SSL, and private networking  
+- 🤖 Building personal automation flows with n8n  
+- 🧠 Exploring distributed systems & event-driven design  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ömerkutayırmak)  
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/calpim)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@calpim)  
+[![Reddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/calpim)  
+[![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/calpim)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Calpimm&show_icons=true&theme=graywhite&hide_border=true&icon_color=000000&text_color=000000)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calpimm&layout=compact&theme=graywhite&hide_border=true)  
+![Streak](https://streak-stats.demolab.com?user=Calpimm&theme=default&hide_border=true&stroke=000000&ring=000000&fire=000000)
+
+</div>
+
+---
+
+## 🧮 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Calpimm&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Calpimm/Calpimm/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ✍️ Quote to Live By
+
+> “Code clean. Automate everything. Sleep sometimes.”  
+> — Kutay Irmak
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:444444&height=120&section=footer)
