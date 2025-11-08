@@ -78,7 +78,13 @@ Backend Developer | DevOps Enthusiast | Automation Engineer
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Calpimm/Calpimm/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Calpimm/Calpimm/output/github-contribution-grid-snake.svg)
+
+*🐍 Watch the snake eat my contributions!*
+
+</div>
 
 ---
 
