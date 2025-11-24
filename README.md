@@ -97,7 +97,7 @@ Backend Developer | DevOps Enthusiast | Automation Engineer
 
 ## 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/Calpimm/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Calpimm&color=000000&style=flat-square&label=Profile+Views)
 
 ---
 
