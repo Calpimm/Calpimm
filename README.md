@@ -90,7 +90,24 @@ Backend Developer | DevOps Enthusiast | Automation Engineer
 
 ## ✍️ Quote to Live By
 
-> “Code clean. Automate everything. Sleep sometimes.”  
+> "Code clean. Automate everything. Sleep sometimes."  
 > — Kutay Irmak
+
+---
+
+## 👀 Profile Views
+
+![Visitor Count](https://profile-counter.glitch.me/Calpimm/count.svg)
+
+---
+
+## 💙 Support My Work
+
+If you like what I do and want to support my open-source projects and content creation:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/kutayirmak)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kutayirmak)
+
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:444444&height=120&section=footer)
