@@ -13,12 +13,19 @@ Backend Developer | DevOps Enthusiast | Automation Engineer
 
 ## 🧠 About Me
 
-🧩 Freelance backend developer focused on building scalable systems and clean architectures.  
-⚙️ Passionate about **automation**, **APIs**, and **self-healing infrastructures**.  
-🎮 Currently collaborating with a gaming company while crafting personal backend projects.  
-💬 Fluent in `TypeScript`, `Go`, `Python`, `Rust`, `C++`, `SQL`, and sarcasm.  
-🌙 Most active between *midnight deploys* and *morning caffeine.*  
-🕶️ Motto: *“If it scales, it lives — if it breaks, it learns.”*
+**Freelance Backend Engineer** specializing in scalable system architecture, microservices, and cloud-native applications. With expertise across multiple technology stacks, I architect robust solutions that prioritize performance, maintainability, and operational excellence.
+
+**Core Expertise:**
+- 🏗️ **System Architecture:** Designing scalable backend systems with clean, modular architectures
+- ⚙️ **DevOps & Automation:** Building CI/CD pipelines, infrastructure as code, and self-healing systems
+- 🔌 **API Development:** RESTful services, GraphQL, and real-time communication protocols
+- ☁️ **Cloud Infrastructure:** Experienced with AWS, GCP, and multi-cloud orchestration
+- 🎮 **Current Projects:** Backend development for gaming industry & personal SaaS ventures
+
+**Technical Philosophy:**  
+*"Code with purpose. Automate relentlessly. Scale intelligently."*
+
+**Languages & Expertise:** `TypeScript` • `Go` • `Python` • `Rust` • `C++` • `SQL`
 
 ---
 
